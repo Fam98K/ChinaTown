@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>China Town</title>
+<meta name="description" content="China Town online shop: tea, tableware, kitchen tools and pantry goods.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Figtree:wght@400..700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&text=%E5%94%90%E4%BA%BA%E8%A1%97%E8%8C%B6%E5%99%A8%E5%8E%A8%E5%91%B3%E7%A4%BC%E5%93%81&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<dialog id="edDlg"></dialog>
+<dialog id="cpDlg">
+  <div class="dl">
+    <h2>Copy details</h2>
+    <p class="muted" style="margin:0">Your browser blocked the copy button. Select the text below and copy it.</p>
+    <textarea id="cpTxt" rows="9" readonly></textarea>
+    <div class="row"><button class="btn btn-line" id="cpClose">Close</button></div>
+  </div>
+</dialog>
+<div id="toast" role="status"></div>
+<button class="btn btn-red fab" id="fab" hidden></button>
+
+<script src="app.js"></script>
+</body>
+</html>
