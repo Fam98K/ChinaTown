@@ -1,43 +1,6 @@
 // China Town catalogue. The admin page writes this file. You can also edit it by hand.
 window.SHOP_DATA = {
   "products": {
-    "aged-pu-erh-cake": {
-      "active": true,
-      "cat": "Tea",
-      "desc": "A dark, smooth and earthy ripe pu-erh stored dry for five years. Break off a few grams, rinse once, then brew.",
-      "glyph": "leaf",
-      "hue": "#6b3a22",
-      "img": "",
-      "name": "Aged Pu-erh Cake",
-      "options": [],
-      "price": 36,
-      "specs": [
-        {
-          "k": "Net weight",
-          "v": "200 g"
-        },
-        {
-          "k": "Origin",
-          "v": "Yunnan, China"
-        },
-        {
-          "k": "Type",
-          "v": "Ripe pu-erh"
-        },
-        {
-          "k": "Aged",
-          "v": "5 years, dry storage"
-        },
-        {
-          "k": "Brewing",
-          "v": "100 C water, 6 g per 150 ml, rinse once"
-        }
-      ],
-      "stock": 12,
-      "tag": "Ripe pu-erh, 200 g cake",
-      "ts": 1793499880000,
-      "was": 42
-    },
     "bamboo-steamer": {
       "active": true,
       "cat": "Kitchen",
@@ -571,16 +534,32 @@ window.SHOP_DATA = {
       "img": "images/scvcn-fashion-sports-sun-mw3j0clk.jpg",
       "active": true,
       "ts": 1793881972424
+    },
+    "sports-men-sunglasses-road-b": {
+      "name": "Sports Men Sunglasses Road Bicycle Glasses Mountain Cycling Riding Pro",
+      "cat": "Sports",
+      "price": 5,
+      "was": 12,
+      "stock": 10,
+      "tag": "Cycling Glasses",
+      "desc": "",
+      "specs": [],
+      "options": [],
+      "glyph": "tin",
+      "hue": "#c0201b",
+      "img": "images/sports-men-sunglasses-ro-mw3kjo43.jpg",
+      "active": true,
+      "ts": 1793884553427
     }
   },
   "settings": {
     "name": "China Town",
-    "cur": "Tk",
+    "cur": "$",
     "ship": 80,
     "free": 999.99,
-    "banner": "",
-    "contact": "",
-    "wa": "01856540569",
+    "banner": "1$=120tk",
+    "contact": "01856540569",
+    "wa": "0165528482",
     "note": "Orders are packed within 7 working days. ",
     "pay": "Cash on delivery, or bank or mobile transfer after we confirm your order."
   }
