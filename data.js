@@ -566,6 +566,22 @@ window.SHOP_DATA = {
       "img": "images/2026-new-js26-drone-fpv--mw3l4vzo.jpg",
       "active": true,
       "ts": 1793885543412
+    },
+    "high-exercise-tpe-fitness-re": {
+      "name": "High Exercise TPE Fitness Resistance Bands Tube Set 11pcs with Door An",
+      "cat": "Sports",
+      "price": 5,
+      "was": 0,
+      "stock": 10,
+      "tag": "Resistance Band",
+      "desc": "",
+      "specs": [],
+      "options": [],
+      "glyph": "tin",
+      "hue": "#c0201b",
+      "img": "images/high-exercise-tpe-fitnes-mw3liqzo.jpg",
+      "active": true,
+      "ts": 1793886190116
     }
   },
   "settings": {
