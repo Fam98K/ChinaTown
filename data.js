@@ -555,17 +555,33 @@ window.SHOP_DATA = {
       "tag": "200 ml zisha clay with strainer",
       "ts": 1793499760000,
       "was": 0
+    },
+    "scvcn-fashion-sports-sunglas": {
+      "name": "SCVCN Fashion Sports Sunglasses Cycling Glasses Street Shades Driving",
+      "cat": "Sports",
+      "price": 1500,
+      "was": 1950,
+      "stock": 10,
+      "tag": "Cycling Glasses",
+      "desc": "UV400 Protection for Eye Safety Equipped with UV400 lenses, these cycling sunglasses block 100% of harmful UVA and UVB rays, ensuring optimal eye protection during outdoor activities like biking, hiking, or driving.\nLightweight Polycarbonate Frame Crafted from durable polycarbonate frame material, the glasses are lightweight yet strong, offering comfort during long rides and resistance to impact and daily wear.\nMulti-Color Frame Options Available in multiple frame colors including 01, 02, 03, 04, 05, 06, 07, 11, 12, 22, 23, 24, these unisex sunglasses let you choose a style that matches your personality and outfit.\nPerfect Fit for Road Cycling Designed as road bike sunglasses, they feature a sleek lens width of 145MM and lens height of 56MM, providing wide coverage and a secure fit for high-speed cycling.\nCE Certified for Quality Assurance Certified with CE, these sunglasses meet European safety and quality standards, ensuring reliable performance and compliance with international regulations.",
+      "specs": [],
+      "options": [],
+      "glyph": "tin",
+      "hue": "#0e23be",
+      "img": "images/scvcn-fashion-sports-sun-mw3j0clk.jpg",
+      "active": true,
+      "ts": 1793881972424
     }
   },
   "settings": {
+    "name": "China Town",
+    "cur": "$",
+    "ship": 6,
+    "free": 60,
     "banner": "",
     "contact": "",
-    "cur": "$",
-    "free": 60,
-    "name": "China Town",
+    "wa": "",
     "note": "Orders are packed within two working days. Teaware is double-wrapped.",
-    "pay": "Cash on delivery, or bank or mobile transfer after we confirm your order.",
-    "ship": 6,
-    "wa": ""
+    "pay": "Cash on delivery, or bank or mobile transfer after we confirm your order."
   }
 };
