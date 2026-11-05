@@ -522,7 +522,7 @@ window.SHOP_DATA = {
     "scvcn-fashion-sports-sunglas": {
       "name": "SCVCN Fashion Sports Sunglasses Cycling Glasses Street Shades Driving",
       "cat": "Sports",
-      "price": 1500,
+      "price": 15,
       "was": 1950,
       "stock": 10,
       "tag": "Cycling Glasses",
