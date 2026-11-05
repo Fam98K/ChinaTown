@@ -575,13 +575,13 @@ window.SHOP_DATA = {
   },
   "settings": {
     "name": "China Town",
-    "cur": "$",
-    "ship": 6,
-    "free": 60,
+    "cur": "Tk",
+    "ship": 80,
+    "free": 999.99,
     "banner": "",
     "contact": "",
-    "wa": "",
-    "note": "Orders are packed within two working days. Teaware is double-wrapped.",
+    "wa": "01856540569",
+    "note": "Orders are packed within 7 working days. ",
     "pay": "Cash on delivery, or bank or mobile transfer after we confirm your order."
   }
 };
