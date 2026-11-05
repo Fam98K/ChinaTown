@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>China Town Admin</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Figtree:wght@400..700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700&text=%E5%94%90%E4%BA%BA%E8%A1%97%E8%8C%B6%E5%99%A8%E5%8E%A8%E5%91%B3%E7%A4%BC%E5%93%81&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>
+.savebar{position:fixed;left:max(16px,env(safe-area-inset-left,0px));right:max(16px,env(safe-area-inset-right,0px));bottom:calc(env(safe-area-inset-bottom,0px) + 14px);z-index:30;max-width:1280px;margin:0 auto;background:var(--ink);color:var(--bg);border-radius:16px;padding:12px 16px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;box-shadow:0 20px 40px -16px rgba(0,0,0,.5)}
+.savebar[hidden]{display:none}
+.savebar b{margin-right:auto}
+.savebar .btn-line{color:var(--bg);border-color:color-mix(in srgb,var(--bg) 40%,transparent)}
+.savebar .btn-line:hover:not([disabled]){background:transparent;border-color:var(--bg)}
+input[type=password],input[type=file]{background:var(--panel);border:1.5px solid var(--line);border-radius:10px;padding:10px 12px;width:100%;min-width:0}
+.ok{color:var(--ok)}
+details>summary{list-style-position:inside}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<dialog id="edDlg"></dialog>
+<div class="savebar" id="savebar" hidden></div>
+<div id="toast" role="status"></div>
+<script src="glyphs.js"></script>
+<script>document.write('<script src="data.js?v='+Math.floor(Date.now()/60000)+'"><\/script>');</script>
+<script src="admin.js"></script>
+</body>
+</html>
