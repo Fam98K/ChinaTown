@@ -550,6 +550,22 @@ window.SHOP_DATA = {
       "img": "images/sports-men-sunglasses-ro-mw3kjo43.jpg",
       "active": true,
       "ts": 1793884553427
+    },
+    "2026-new-js26-drone-fpv-came": {
+      "name": "2026 New JS26 Drone Fpv Camera 4k Hd High Quality 20min Brushless Moto",
+      "cat": "Technology",
+      "price": 45,
+      "was": 75,
+      "stock": 10,
+      "tag": "4K Drone",
+      "desc": "At a glance\n\n4K UHD Video Resolution: The 4K UHD video resolution ensures high-quality, detailed footage for professional and personal use.\n\n20 Min Maximum Flight Time: A maximum flight time of 20 minutes allows for extended aerial photography and videography sessions.",
+      "specs": [],
+      "options": [],
+      "glyph": "tin",
+      "hue": "#ff8800",
+      "img": "images/2026-new-js26-drone-fpv--mw3l4vzo.jpg",
+      "active": true,
+      "ts": 1793885543412
     }
   },
   "settings": {
